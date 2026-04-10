@@ -1,0 +1,38 @@
+.card {
+    width: 20px;
+    height: 40px;
+    color:aliceblue;
+    background-color: aqua;
+    margin: 20px;
+}
+
+.card_training{
+border: 2px #e41a1a;
+color:crimson
+}
+
+.card_rookie{
+border: 2px #2ced0e;
+color:chartreuse;
+}
+
+.card_champion{
+border: 2px #0098f1;
+color:aqua;
+
+}
+
+
+.card_ultimate {
+border: 2px #ffd000;
+color:gold
+
+}
+
+
+.card_mega {
+border: 2px #da1dab;
+color:deeppink
+
+}
+
