@@ -17,6 +17,7 @@ function App() {
         value={filtro}
         onChange={(e) => setFiltro(e.target.value)}
       />
+      <button>Buscar</button>
 
      {digi.map((p)=>(
         <Card
