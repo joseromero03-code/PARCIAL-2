@@ -1,9 +1,7 @@
 .card {
-    width: 20px;
-    height: 40px;
-    color:aliceblue;
-    background-color: aqua;
-    margin: 20px;
+margin: 10px;
+background-color: white;
+color: black;
 }
 
 .card_training{
@@ -12,12 +10,12 @@ color:crimson
 }
 
 .card_rookie{
-border: 2px #2ced0e;
+border: 2px dashed hsl(112, 89%, 49%);
 color:chartreuse;
 }
 
 .card_champion{
-border: 2px #0098f1;
+border: 2px dashed aqua;
 color:aqua;
 
 }
@@ -31,8 +29,14 @@ color:gold
 
 
 .card_mega {
-border: 2px #da1dab;
+border: 2px solid  #da1dab;
 color:deeppink
+
+}
+
+.div image {
+height: 100px;
+width: 100px;
 
 }
 
