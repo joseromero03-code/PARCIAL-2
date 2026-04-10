@@ -2,6 +2,8 @@
 margin: 10px;
 background-color: white;
 color: black;
+border-radius: 16px; 
+box-shadow: black;
 }
 
 .card_training{
